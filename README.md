@@ -13,50 +13,50 @@ url : https://overthewire.org/wargames/bandit/
 1. [Level 0](#Level-0)
    
 - ### 1. 파일 읽기
-2. [Level 0 &rarr; Level 1](#Level-0-&rarr;-Level-1)
-3. [Level 1 &rarr; Level 2](#Level-1-&rarr;-Level-2)
-4. [Level 2 &rarr; Level 3](#Level-2-&rarr;-Level-3)
-5. [Level 3 &rarr; Level 4](#Level-3-&rarr;-Level-4)
+2. [Level 0 → Level 1](#Level-0-→-Level-1)
+3. [Level 1 → Level 2](#Level-1-→-Level-2)
+4. [Level 2 → Level 3](#Level-2-→-Level-3)
+5. [Level 3 → Level 4](#Level-3-→-Level-4)
    
 - ### 2. 파일 찾기
-1. [Level 4 &rarr; Level 5](#Level-4-&rarr;-Level-5)
-2. [Level 5 &rarr; Level 6](#Level-5-&rarr;-Level-6)
-3. [Level 6 &rarr; Level 7](#Level-6-&rarr;-Level-7)
+1. [Level 4 → Level 5](#Level-4-→-Level-5)
+2. [Level 5 → Level 6](#Level-5-→-Level-6)
+3. [Level 6 → Level 7](#Level-6-→-Level-7)
 
 - ### 3. 내용 찾기
-4.  [Level 7 &rarr; Level 8](#Level-7-&rarr;-Level-8)
-5.  [Level 8 &rarr; Level 9](#Level-8-&rarr;-Level-9)
-6.  [Level 9 &rarr; Level 10](#Level-9-&rarr;-Level-10)
+4.  [Level 7 → Level 8](#Level-7-→-Level-8)
+5.  [Level 8 → Level 9](#Level-8-→-Level-9)
+6.  [Level 9 → Level 10](#Level-9-→-Level-10)
    
 - ### 4. 데이터 변환   
-7.  [Level 10 &rarr; Level 11](#Level-10-&rarr;-Level-11)
-8.  [Level 11 &rarr; Level 12](#Level-11-&rarr;-Level-12)
-9.  [Level 12 &rarr; Level 13](#Level-12-&rarr;-Level-13)
+7.  [Level 10 → Level 11](#Level-10-→-Level-11)
+8.  [Level 11 → Level 12](#Level-11-→-Level-12)
+9.  [Level 12 → Level 13](#Level-12-→-Level-13)
 
 - ### 5. 네트워크 연결
-10. [Level 13 &rarr; Level 14](#Level-13-&rarr;-Level-14)
-11. [Level 14 &rarr; Level 15](#Level-14-&rarr;-Level-15)
-12. [Level 15 &rarr; Level 16](#Level-15-&rarr;-Level-16)
-13. [Level 16 &rarr; Level 17](#Level-16-&rarr;-Level-17)
-14. [Level 17 &rarr; Level 18](#Level-17-&rarr;-Level-18)
+10. [Level 13 → Level 14](#Level-13-→-Level-14)
+11. [Level 14 → Level 15](#Level-14-→-Level-15)
+12. [Level 15 → Level 16](#Level-15-→-Level-16)
+13. [Level 16 → Level 17](#Level-16-→-Level-17)
+14. [Level 17 → Level 18](#Level-17-→-Level-18)
 
 - ### -
-15. [Level 18 &rarr; Level 19](#Level-18-&rarr;-Level-19)
-16. [Level 19 &rarr; Level 20](#Level-19-&rarr;-Level-20)
-17. [Level 20 &rarr; Level 21](#Level-20-&rarr;-Level-21)
-18. [Level 21 &rarr; Level 22](#Level-21-&rarr;-Level-22)
-19. [Level 22 &rarr; Level 23](#Level-22-&rarr;-Level-23)
-20. [Level 23 &rarr; Level 24](#Level-23-&rarr;-Level-24)
-21. [Level 24 &rarr; Level 25](#Level-24-&rarr;-Level-25)
-22. [Level 25 &rarr; Level 26](#Level-25-&rarr;-Level-26)
-23. [Level 26 &rarr; Level 27](#Level-26-&rarr;-Level-27)
-24. [Level 27 &rarr; Level 28](#Level-27-&rarr;-Level-28)
-25. [Level 28 &rarr; Level 29](#Level-28-&rarr;-Level-29)
-26. [Level 29 &rarr; Level 30](#Level-29-&rarr;-Level-30)
-27. [Level 30 &rarr; Level 31](#Level-30-&rarr;-Level-31)
-28. [Level 31 &rarr; Level 32](#Level-31-&rarr;-Level-32)
-29. [Level 32 &rarr; Level 33](#Level-32-&rarr;-Level-33)
-30. [Level 33 &rarr; Level 34](#Level-33-&rarr;-Level-34)
+15. [Level 18 → Level 19](#Level-18-→-Level-19)
+16. [Level 19 → Level 20](#Level-19-→-Level-20)
+17. [Level 20 → Level 21](#Level-20-→-Level-21)
+18. [Level 21 → Level 22](#Level-21-→-Level-22)
+19. [Level 22 → Level 23](#Level-22-→-Level-23)
+20. [Level 23 → Level 24](#Level-23-→-Level-24)
+21. [Level 24 → Level 25](#Level-24-→-Level-25)
+22. [Level 25 → Level 26](#Level-25-→-Level-26)
+23. [Level 26 → Level 27](#Level-26-→-Level-27)
+24. [Level 27 → Level 28](#Level-27-→-Level-28)
+25. [Level 28 → Level 29](#Level-28-→-Level-29)
+26. [Level 29 → Level 30](#Level-29-→-Level-30)
+27. [Level 30 → Level 31](#Level-30-→-Level-31)
+28. [Level 31 → Level 32](#Level-31-→-Level-32)
+29. [Level 32 → Level 33](#Level-32-→-Level-33)
+30. [Level 33 → Level 34](#Level-33-→-Level-34)
 
 </br>
 
@@ -97,7 +97,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 0 &rarr; Level 1
+## Level 0 → Level 1
 
 </span>
 
@@ -121,7 +121,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 1 &rarr; Level 2
+## Level 1 → Level 2
 
 </span>
 
@@ -135,7 +135,7 @@ url : https://overthewire.org/wargames/bandit/
 
     ![alt text](image-7.png)
 
-- 하지만 아무것도 뜨지 않는다. &rarr; 리눅스에서 ```-```는 특수문자라서 명령어의 인자로 넘겨지지 않는다.
+- 하지만 아무것도 뜨지 않는다. → 리눅스에서 ```-```는 특수문자라서 명령어의 인자로 넘겨지지 않는다.
 - 그렇다면, ```./``` 문자를 사용할 것이다. 이것은 리눅스에서 '<span style="color: #2ff4a1"> **현재 경로**</span>'를 의미한다. 
   
     ![alt text](image-8.png)
@@ -146,7 +146,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 2 &rarr; Level 3
+## Level 2 → Level 3
 
 </span>
 
@@ -174,7 +174,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 3 &rarr; Level 4
+## Level 3 → Level 4
 
 </span>
 
@@ -202,7 +202,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 4 &rarr; Level 5
+## Level 4 → Level 5
 
 </span>
 
@@ -234,7 +234,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 5 &rarr; Level 6
+## Level 5 → Level 6
 
 </span>
 
@@ -243,7 +243,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 6 &rarr; Level 7
+## Level 6 → Level 7
 
 </span>
 
@@ -254,7 +254,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 7 &rarr; Level 8
+## Level 7 → Level 8
 
 </span>
 
@@ -263,7 +263,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 8 &rarr; Level 9
+## Level 8 → Level 9
 
 </span>
 
@@ -273,7 +273,7 @@ url : https://overthewire.org/wargames/bandit/
 
 <span style="color: #fff5a1"> 
 
-## Level 9 &rarr; Level 10
+## Level 9 → Level 10
 
 </span>
 
